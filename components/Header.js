@@ -2,7 +2,7 @@ import { useRouter } from 'next/router';
 
 export default function Header() {
   const router = useRouter();
-  const baseUrl = "https://luidj-78.github.io/Travelmap_AZH/";
+  const baseUrl = "https://luidj-78.github.io/Travelmap_azh_proto_nextjs/";
 
   return (
     <div id="header" className="topnav">
